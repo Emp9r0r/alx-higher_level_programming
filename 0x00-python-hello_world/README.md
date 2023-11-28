@@ -44,14 +44,4 @@ Completion of this source code.
 Returns 0 if there is no cycle and 1 if there is.
 Helper files:
 linked_lists.c: C functions handling linked lists for testing 10-check_cycle.c (provided by Holberton School).
-lists.h: Header file containing definitions and prototypes for all types and functions used in linked_lists.c and 10-check_cycle.c.
-11. Hello, write
-
-100-write.py: Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line to stderr using the function write from the sys module.
-Exits with a status code of 1.
-12. Compile
-
-101-compile: Python script that compiles a Python script file stored in the environment variable $PYFILE and saves it to an output file $PYFILEc (ex. export PYFILE=my_main.py => output filename: my_main.pyc).
-13. ByteCode -> Python #1
-
-102-magic_calculation.py: Pyt
+lists.h: Header file containing definitions and prototypes for all types and functions used in linked_lists.c and 10-check_cyc
